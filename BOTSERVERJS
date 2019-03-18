@@ -1,0 +1,243 @@
+const Discord = require('discord.js');
+const client = new Discord.Client();
+
+
+client.on('message', msg => {
+  if (msg.content === 'SEMİH') {
+    msg.reply('SEMİH ARKADA 31 ÇEKME !');
+  }
+});
+client.on('message', msg => {
+  if (msg.content === 'BERKAY') {
+    msg.reply('AYI BERNARD !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'TARIK') {
+    msg.reply('KAŞARRR  !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'YUSUF') {
+    msg.reply('PORNO İZLEME LAN !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'EMRE') {
+    msg.reply('SUSKUN ÇOCUK ONUNLA DALGA GEÇMEK İSTEMİYORUM !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'BOTLAR') {
+    msg.reply('BEN EN İYİSİYİM  !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'sa') {
+    msg.reply('selamın aleyküm !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'as') {
+    msg.reply('aleyküm selam !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'amk') {
+    msg.reply('amına koyayim !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'aq') {
+    msg.reply('DİYOR Kİ amınakoyim !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'OÇ') {
+    msg.reply('DİYOR Kİ OROSBU ÇOCUĞUUUU !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'slk') {
+    msg.reply('salak !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'ybsg') {
+    msg.reply('ya bi siktir git ya !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'sie') {
+    msg.reply('siktir git !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'O') {
+    msg.reply('orosbuuu !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'şeref'){
+    msg.reply('şerefsissss !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'şeref') {
+    msg.reply('şerefsissss !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'şeref') {
+    msg.reply('şerefsissss !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'şeref') {
+    msg.reply('şerefsissss !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'BERKAY PUBG') {
+    msg.reply('berkay şuanda pubg oynuyor 1-2 dk ya gelir !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'SEMİH PUBG') {
+    msg.reply('semih şuanda pubg oynuyor 1-2 dkya gelir !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'TARIK PUBG') {
+    msg.reply('tarık şuanda pubg oynuyor 1-2 dk ya gelir  !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'EMRE PUBG') {
+    msg.reply('emre şuanda pubg oynuyor 1-2dk ya gelir  !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'TARIK CSGO') {
+    msg.reply('tarık şuanda csgo oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'BERKAY CSGO') {
+    msg.reply('berkay şuanda csgo oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'EMRE CSGO') {
+    msg.reply('emre şuanda csgo oynuyor 1-2 dk ya gelir  !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'BERKAY GTAV') {
+    msg.reply('berkay şuanda gta v oynuyor 1-2 dk ya gelir !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'SEMİH GTAV ') {
+    msg.reply('semih şuanda gtav oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'TARIK GTAV') {
+    msg.reply('tarık şuanda gtav oynuyor 1-2 dkya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'EMRE GTAV') {
+    msg.reply('emre şuanda gtav oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'YUSUF TANK') {
+    msg.reply('yusuf şuanda world of tanks oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'BERKAY LOL') {
+    msg.reply('berkay şanda League of Legends oynuyor 1-2 dk ya gelir  !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'TARIK LOL') {
+    msg.reply('tarık şanda League of Legends oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'SEMİH LOL') {
+    msg.reply('semih şanda League of Legends oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'YUSUF LOL') {
+    msg.reply('yusuf şanda League of Legends oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'SEMİH EURO') {
+    msg.reply('semih şuanda euro truck simulator 2 oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'TARIK EURO') {
+    msg.reply('TARIK şuanda euro truck simulator 2 oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'EMRE EURO') {
+    msg.reply('EMRE şuanda euro truck simulator 2 oynuyor 1-2 dk ya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'SEMİH ROKET') {
+    msg.reply('semih şuanda roket League oynuyor 1-2 dkya gelir !');
+  }
+})
+client.on('message', msg => {
+  if (msg.content === 'BERKAY EURO') {
+    msg.reply('BERKAY şuanda roket League oynuyor 1-2 dkya gelir !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'YEMEK') {
+    msg.reply('ben yemekteyim !');
+  }
+})
+
+client.on('message', msg => {
+  if (msg.content === 'İNSTAGRAM') {
+    msg.reply('TARIK:sonkurt90');
+    msg.reply('ASECLAW:aselaww');
+    msg.reply('BERKAY:berkaymüesser !');
+    msg.reply('mertcan:metcanofficial !');
+    msg.reply('REVENGE:emre_atc06');
+    msg.reply('savitar:savitarr')
+    
+  }
+})
+
+
+  client.login(process.env.TOKEN)
